@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgiYarismasi", "BilgiYarismasi.csproj", "{F36D5E30-4F9B-4B05-A3FC-3EE44AE64225}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KİM KRUŞONER OLMAK İSTER", "..\KİM KRUŞONER OLMAK İSTER\KİM KRUŞONER OLMAK İSTER.vdproj", "{474095D3-F648-4F62-80C6-7284C5FD40B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F36D5E30-4F9B-4B05-A3FC-3EE44AE64225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36D5E30-4F9B-4B05-A3FC-3EE44AE64225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36D5E30-4F9B-4B05-A3FC-3EE44AE64225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36D5E30-4F9B-4B05-A3FC-3EE44AE64225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{474095D3-F648-4F62-80C6-7284C5FD40B9}.Debug|Any CPU.ActiveCfg = Debug
+		{474095D3-F648-4F62-80C6-7284C5FD40B9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09010FF3-90CC-4EDC-95F0-529AC00581E4}
+	EndGlobalSection
+EndGlobal
